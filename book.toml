@@ -1,0 +1,38 @@
+[book]
+author = ["Thorbjörn Jensen"]
+language = "se"
+multilingual = false
+description = "Guide för distribution Windows 10 på nätverk"
+src = "src"
+title = "iVentoy Deployment Server"
+
+
+[output.html]
+theme = "sun"
+default-theme = "navy"
+additional-js = ["mermaid.min.js", "mermaid-init.js",]
+curly-quotes = true  
+
+
+
+
+
+[preprocessor.mermaid]
+command = "mdbook-mermaid"
+
+
+[preprocessor.embedify]
+scroll-to-top.enable = true
+footer.enable = true
+footer.message = "CopyLeft (ɔ)  2024 TJ"
+
+
+[preprocessor.alerts]
+
+[preprocessor.toc]
+command = "mdbook-toc"
+renderer = ["html"]
+
+
+
+

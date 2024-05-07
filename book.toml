@@ -12,7 +12,7 @@ theme = "sun"
 default-theme = "navy"
 additional-js = ["mermaid.min.js", "mermaid-init.js",]
 curly-quotes = true  
-
+site-url = "https://thorbjorn.netlify.app/"
 git-repository-url = "https://github.com/horbjorn/Site_iventoy"
 git-repository-icon = "fa-github"
 

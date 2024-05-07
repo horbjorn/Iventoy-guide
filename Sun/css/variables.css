@@ -15,10 +15,12 @@
 /* Themes */
 
 .sun {
-    --bg: hsl(51, 91%, 91%);
+    /* --bg: hsl(51, 91%, 91%); */
+    --bg: hsl(52, 100%, 91%);
     --fg: hsl(0, 0%, 45%);
 
     --sidebar-bg: #fdf6ca;
+    /* --sidebar-bg: #fff9d0; */
     --sidebar-fg: hsla(0, 0%, 0%, 0.568);
     --sidebar-non-existant: #aaaaaa;
     --sidebar-active: #000000;
@@ -42,7 +44,7 @@
     /* --theme-hover: #f5f5f582; */
 
     --quote-bg: hsla(0, 0%, 91%, 0.995);
-    --quote-border: hsla(198, 38%, 91%, 0.747);
+    --quote-border: hsla(0, 3%, 86%, 0.747);
 
     --warning-border: #ff8e00;
 

@@ -33,10 +33,10 @@ En annan lösning är att ladda ner Windows genom [UUP dump](https://uupdump.net
 </br>  
 
 > [!TIPS]
-> Om autounattend.xml läggs till som en egen ISO i samma VM som Windows ISO:n upptäcks skriptet och körs vid installation. __Edit:__ Man kan nu ladda ner filen som ISO.
+> Om autounattend.xml läggs till som en egen ISO i samma VM som Windows ISO:n upptäcks skriptet och körs vid installationen. __Edit:__ Man kan nu ladda ner filen som ISO.
 
 </br>  
 
 > [!NOTERA]  
-> Vid installation till VM kan man bli tvungen att logga in efter installation, även om man har specat autologin i skriptet när Enhanced Session
+> Vid installation till VM kan man bli tvungen att logga in efter installationen, även om man har specat autologin i skriptet när Enhanced Session
 > är aktiverad.  

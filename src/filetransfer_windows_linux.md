@@ -9,7 +9,7 @@ men det kanske inte heller alltid funkar.
 
 För att flytta filer till Ubuntu Server VM finns det dock andra sätt. Navigera till “Home directory” med kommandot `cd`
 och mata in `sudo chown user Downloads` där `user` är användarnamnet vid inloggning på Ubuntu. Kommandoraden ger användaren
-”user” ägarskap över mappen Downloads. Öppna Powershell (admin) genom att shift-klicka i en mapp som en fil ska överföras
+”user” ägarskap över mappen Downloads. Öppna Powershell (admin) genom att shift-högerklicka i en mapp som en fil ska överföras
 från med SCP. Mata in filnamn och mottagare enligt följande:  
 
 ````Powershell

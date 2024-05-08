@@ -26,7 +26,7 @@ En volymlicensnyckel måste läggas till i skriptet för att en obevakad install
 
 </br>  
 
-En annan lösning är att ladda ner Windows genom [UUP dump](https://uupdump.net/) där man kan välja senaste versionen och vad som skall ingå i ISO:n.
+En annan lösning är att ladda ner Windows genom [UUP dump](https://uupdump.net/) och välja senaste versionen och vad som skall ingå i ISO:n.
 
 </br>  
 

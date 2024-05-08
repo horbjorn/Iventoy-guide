@@ -152,7 +152,7 @@ Lägg till följande rad längst ner:
 
 Spara med <kbd>Ctrl</kbd> + <kbd>S</kbd> och stäng fönstret med <kbd>Ctrl</kbd> + <kbd>X</kbd>. Den optiska enheten monteras nu automatiskt vid uppstart i iVentoys iso-mapp.  
 
-Kopiera eventuellt autounattend.xml-filen till iVentoys skriptmapp:
+Kopiera eventuell autounattend.xml-fil till iVentoys skriptmapp:
 
 ````Bash
 cp /home/user/iventoy-1.0.20/iso/autounattend.xml /home/user/iventoy-1.0.20/user/scripts/

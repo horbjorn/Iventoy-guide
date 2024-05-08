@@ -43,13 +43,13 @@ Ladda ner iVentoy <https://github.com/ventoy/PXE/releases> på en extern enhet o
 
 ![Bild](./windows/get_volume.jpg)  
 
-Montera ISO:n i VM:et. Lista enheter med `Get-Volume`.
+Montera ISO:n i VM:et. Lista enheter med `Get-Volume`. ISO:n är monterad på enhet D.  
 
 </br>  
 
 <img src="./windows/ls_iso.jpg" width="500" height="242"/>  
 
-ISO:n är monterad på enhet D. Mata in `cd d:` och sen `ls` för att se filerna på D. Flytta iVentoy-mappen till enhet C med:  
+Mata in `cd d:` och sen `ls` för att se filerna på D. Flytta iVentoy-mappen till enhet C med:  
 
 ```powershell
 cp .\iventoy-1.0.20\ c: -recurse
@@ -90,4 +90,4 @@ Ta bort filen med `rm .\vc_redist.x64.exe -force`. Gå in i iVentoy-mappen med `
 
 Ett litet fönster dyker upp som kan gömma sig bakom terminalfönstret. Klicka på <kbd>Exit</kbd> knappen när iVentoy skall avslutas.  
 
-Öppna en webbläsare på en extern enhet och skriv in adressen till datorn iVentoy är installerad på och ange port 26000. Exempelvis så här: http://192.168.10.22:26000 [Klicka](iventoy.md) för snabbguide.  
+Öppna en webbläsare på en extern enhet och skriv in adressen till datorn iVentoy är installerad på och ange port 26000. Exempel: http://192.168.10.22:26000 [Klicka](iventoy.md) för snabbguide.  

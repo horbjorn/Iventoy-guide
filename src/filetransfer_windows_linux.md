@@ -29,6 +29,17 @@ Lösenord kommer att utkrävas av mottagaren (Ubuntu).
 > [!Notera]
 > För överföring till Windows från Ubuntu krävs att SSH är installerad och konfigurerad på Windows-enheten.  
 
+## WinSCP  
+
+Smidigaste sättet att överföra är med WinSCP. Det funkar åt båda hållen och kräver inga inställningar.  
+
+<video src="./filetransfer/WinSCP.mp4" controls></video>
+
+WinSCP hämtas här: <https://winscp.net/eng/download.php>  
+
+
+
+
 ## Samba - SMB
 
 För att installera Samba mata in:  

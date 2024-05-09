@@ -44,7 +44,7 @@ I nästa ruta välj att installera OpenSSH Client och Server.
 
 ![Bild](./filetransfer/ssh3.jpg)  
 
-1. Tryck <kbd>Windows</kbd> + <kbd>R</kbd> och mata in services.msc
+1. Tryck <kbd>Win</kbd> + <kbd>R</kbd> och mata in services.msc
 2. Klicka OK
 3. Bläddra till OpenSSH SSH Server
 4. Högerklicka och välj Properties

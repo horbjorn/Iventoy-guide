@@ -6,7 +6,7 @@ Autoinställningarna vid installation av Ubuntu Server använder sig av LVM.
 
 ![Bild](./Linux/lvm.jpg)  
 
-De vanliga diskverktygen klarar inte av denna strukturen utan man måste använda sig av terminalen. Kommandon som är användbara inför utökning av utrymmet:
+Om de vanliga diskverktygen inte klarar av denna måste man använda sig av terminalen. Kommandon som är användbara inför utökning av utrymmet:
 
 * `df -h` visar partitionsstorleken där växeln -h är ”human readable”.  
 
@@ -16,7 +16,7 @@ De vanliga diskverktygen klarar inte av denna strukturen utan man måste använd
 
 </br>  
 
-Om man vill utöka utrymmet så måste man börja med VM:et i Hyper-V.  
+För att utöka utrymmet så måste man börja med VM:et i Hyper-V.  
 
 ![Bild](./Linux/expand_VM.jpg)  
 

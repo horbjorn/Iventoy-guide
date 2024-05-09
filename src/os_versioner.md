@@ -8,7 +8,7 @@
 
 Denna är lätt att installera. Tanken med denna guiden är att admin skall kunna ladda ner ISO:n på VM:et.  
 
-Storlek på VM: 22 GB
+Minsta storlek på VM: 22 GB
 
 </br>  
 
@@ -16,7 +16,7 @@ Storlek på VM: 22 GB
 
 Lite krånglig att få igång. Guiden är anpassad för att göra VM:et minimalt med en symlink till ISO-filer. Kan köras headless.  
 
-Storlek på VM: 10 GB
+Minsta storlek på VM: 12 GB
 
 </br>  
 
@@ -24,4 +24,4 @@ Storlek på VM: 10 GB
 
 Lite krånglig att få igång. Guiden är anpassad för att göra VM:et minimalt med en symlink till ISO-filer. Körs headless.  
 
-Storlek på VM: 10 GB
+Minsta storlek på VM: 12 GB

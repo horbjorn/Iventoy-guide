@@ -9,7 +9,8 @@ title = "iVentoy Deployment Server"
 
 [output.html]
 theme = "sun"
-default-theme = "navy"
+default-theme = "sun"
+preferred-dark-theme = "navy"
 additional-js = ["mermaid.min.js", "mermaid-init.js",]
 curly-quotes = true  
 site-url = "https://thorbjorn.netlify.app/"

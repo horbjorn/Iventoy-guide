@@ -6,7 +6,7 @@ Autoinställningarna vid installation av Ubuntu Server använder sig av LVM.
 
 ![Bild](./Linux/lvm.jpg)  
 
-Om de vanliga diskverktygen inte klarar av denna måste man använda sig av terminalen. Kommandon som är användbara inför utökning av utrymmet:
+Om de vanliga diskverktygen inte klarar av denna strukturen måste man använda sig av terminalen. Kommandon som är användbara inför utökning av utrymmet:
 
 * `df -h` visar partitionsstorleken där växeln -h är ”human readable”.  
 

@@ -31,7 +31,7 @@ Lösenord kommer att utkrävas av mottagaren (Ubuntu).
 
 ## WinSCP  
 
-Smidigaste sättet att överföra är med WinSCP. Det funkar åt båda hållen och kräver inga inställningar.  
+Smidigaste sättet att överföra är med WinSCP. Det överför åt båda hållen och kräver ingen förkonfiguration.  
 
 <video src="./filetransfer/WinSCP.mp4" controls></video>
 

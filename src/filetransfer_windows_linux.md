@@ -26,9 +26,57 @@ Lösenord kommer att utkrävas av mottagaren (Ubuntu).
 
 </br>  
 
-> [!Notera]
-> För överföring till Windows från Ubuntu krävs att SSH är installerad och konfigurerad på Windows-enheten.  
+För att överföra från Linux till Windows måste SSH installeras först.
 
+![Bild](./filetransfer/ssh1.jpg)  
+
+1. Sök på Optional Features
+2. Klicka  
+
+</br>  
+
+<img src="./filetransfer/ssh2.jpg" width="500" height="573"/>  
+
+1. Klicka på Add a feature 
+I nästa ruta välj att installera OpenSSH Client och Server.
+
+</br>  
+
+![Bild](./filetransfer/ssh3.jpg)  
+
+1. Tryck <kbd>Windows</kbd> + <kbd>R</kbd> och mata in services.msc
+2. Klicka OK
+3. Bläddra till OpenSSH SSH Server
+4. Högerklicka och välj Properties
+
+</br>  
+
+<img src="./filetransfer/ssh4.jpg" width="350" height="403"/>  
+
+1. Välj Automatic
+2. Klicka på Apply
+
+Starta om datorn.
+
+</br>
+
+För att överföra till Windows mata in så här:
+
+scp min.fil användarnamnWindows@ip.till.windows:C:/Users/Användare
+
+Exempel:
+
+````bash
+scp iventoy.sh administrator@192.168.37.65:C:/Users/Olle
+````  
+
+Observera `/`.  
+
+</br>  
+
+![Bild](./filetransfer/ssh5.jpg)  
+
+När frågan om fingerprint dyker upp skriv "yes".
 ## WinSCP  
 
 Smidigaste sättet att överföra är med WinSCP. Det överför åt båda hållen och kräver ingen förkonfiguration.  
@@ -36,9 +84,6 @@ Smidigaste sättet att överföra är med WinSCP. Det överför åt båda hålle
 <video src="./filetransfer/WinSCP.mp4" controls></video>
 
 WinSCP hämtas här: <https://winscp.net/eng/download.php>  
-
-
-
 
 ## Samba - SMB
 

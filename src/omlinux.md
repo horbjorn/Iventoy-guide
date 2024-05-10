@@ -8,7 +8,7 @@ Linux skiljer på gemener och VERSALER. Sökvägar använder <kbd>/</kbd> istäl
 
 ## Några (kort) kommandon
 
-[Lite basal info man bör känna till som novis.](./linux.md)
+[Några kommandon man bör känna till som novis.](./linux.md)
 
 ## Filöverföring Windows <span style='font-size:auto;'>&#8596;</span> Linux
 

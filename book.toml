@@ -2,7 +2,7 @@
 author = ["Thorbjörn Jensen"]
 language = "se"
 multilingual = false
-description = "Guide för distribution Windows 10 på nätverk"
+description = "Guide för distribution av Windows 10 på nätverk"
 src = "src"
 title = "iVentoy Deployment Server"
 

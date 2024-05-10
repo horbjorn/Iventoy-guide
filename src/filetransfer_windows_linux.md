@@ -89,14 +89,14 @@ WinSCP hämtas här: <https://winscp.net/eng/download.php>
 
 För att installera Samba mata in:  
 
-````Bash
+````bash
 sudo apt update
 sudo apt install samba  
 ````  
 
 Skapa en delad mapp med `mkdir /home/user/Delad/` där `user` är användarnamnet. För att konfigurera Samba mata in `sudo nano /etc/samba/smb.conf`. Längst ner i fönstret läggs följande rader till:
 
-````bash
+````default
 [Delad]
 
 path = /home/user/Delad

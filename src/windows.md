@@ -54,6 +54,7 @@ Mata in `cd d:` och sen `ls` för att se filerna på D. Flytta iVentoy-mappen ti
 ```powershell
 cp .\iventoy-1.0.20\ c: -recurse
 ```  
+
 och eventuell skriptfil med:  
 
 ```powershell
@@ -62,9 +63,9 @@ cp .\autounattend.xml c:\iventoy-1.0.20\user\scripts\
 
 Länka Windows.iso-filen symboliskt:  
 
-````powershell  
+```powershell  
 New-Item -Path C:\iventoy-1.0.20\iso\Windows.iso -ItemType SymbolicLink -Value D:\Windows.iso
-````  
+```  
 
 ## Installera iVentoy
 
@@ -72,9 +73,9 @@ För att iVentoy skall kunna köras måste Microsoft Visual C++ Redistributable 
 
 För att ladda ner mata in:  
 
-````powershell
+```powershell
 wget "https://aka.ms/vs/17/release/vc_redist.x64.exe" -OutFile "C:\vc_redist.x64.exe"
-````
+```
 
 Gå till `C:\` med `cd c:` och installera med:  
 

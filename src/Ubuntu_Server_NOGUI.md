@@ -16,7 +16,7 @@
 </br>  
 
 Ladda ner [Ubuntu Server 22.04.4 LTS](https://ubuntu.com/download/server/thank-you?version=22.04.4&architecture=amd64&lts=true "Ubuntu Server LTS länk") och montera ISO:n i ett VM på
-Hyper-V som är minst 10 GB.
+Hyper-V som är minst 12 GB.
 
 <video src="./video/Edit_VM.mp4" controls></video>
 

@@ -2,7 +2,9 @@
 
 # Distribution av OS på nätverk
 
-- [Inledning](./Inledning.md)
+- [Inledning](./inledning.md)
+
+- [Översikt över processen](./overview.md)
 
 # Guide för operativsystem
 

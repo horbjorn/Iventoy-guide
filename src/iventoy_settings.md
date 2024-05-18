@@ -16,7 +16,7 @@ I Scope Options måste följande läggas till:
 
 iVentoy har två växlar som kan utnyttjas vid behov på kommandoraden.  
 
-- `-A` iVentoy lyssnar via http://0.0.0.0:26000 d.v.s.alla enheter i nätet. Använd vid anslutningsproblem.  
+- `-A` iVentoy lyssnar via http://0.0.0.0:26000 d.v.s. alla enheter i nätet. Använd vid anslutningsproblem.  
 
 - `-R` Startar och kör servern med senast valda konfiguration.
 

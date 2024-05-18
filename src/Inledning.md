@@ -38,6 +38,6 @@ För dokumentationen användes mdBook som primärt använder Markdown syntax fö
 
 Det har varit kul att göra arbetet då man fått lära sig mycket nytt. Speciellt Linux var kul och nyttigt att arbeta med. iVentoy utvecklas fortlöpande viket alla programvaror gör. Under tiden jag skrivit guiden har Ubuntu hunnit släppa en ny version, likaså har autounattend-skriptet uppdaterats tre gånger. Det är nu lättare att förstå varför mycket av det jag googlat var utdaterat.
 
-Författare: Thorbjörn Jensen
-Lärare: Peter Berger
-Movant Lund
+Författare: Thorbjörn Jensen  
+Lärare: Peter Berger  
+Movant Lund  

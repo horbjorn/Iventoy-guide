@@ -47,7 +47,7 @@ Montera ISO:n i VM:et. Lista enheter med `Get-Volume`. ISO:n är monterad på en
 
 </br>  
 
-<img src="./windows/ls_iso.jpg" width="500" height="242"/>  
+<img src="./windows/ls_iso.jpg" width="70%" height="auto"/>  
 
 Mata in `cd d:` och sen `ls` för att se filerna på D. Flytta iVentoy-mappen till enhet C med:  
 

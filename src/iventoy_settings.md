@@ -52,6 +52,6 @@ Exempel:
 </br>  
 
 <img src="./iventoy/eiso.jpg"
-        width="500"
-        height="250"
+        width="75%"
+        height="auto"
         style="display: block; margin: 0 auto" />  

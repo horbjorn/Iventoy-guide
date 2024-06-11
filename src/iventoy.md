@@ -7,8 +7,8 @@
 iVentoy startas genom att klicka på __iVentoy_64.exe__ varvid en webbläsarflik startas tillsammans med ett litet programfönster och en ikon i aktivitetsfältet.  
 
 <img src="./iventoy/start_control.jpg"
-        width="200"
-        height="148"
+        width="30%"
+        height="auto"
         style="display: block; margin: 0 auto" />
 
 Om iVentoy inte startar måste [Microsoft Visual C++ Redistributable](https://aka.ms/vs/17/release/vc_redist.x64.exe) installeras. iVentoy är kodad för att starta med webbläsaren Chrome och har man inte den installerad, eller vill använda en annan webbläsare, så kan man skapa och konfigurera en genväg.  
@@ -16,8 +16,8 @@ Om iVentoy inte startar måste [Microsoft Visual C++ Redistributable](https://ak
 </br>  
 
 <img src="./iventoy/shortcut.jpg"
-        width="383"
-        height="500"
+        width="60%"
+        height="auto"
         style="display: block; margin: 0 auto" />
 
 Högerklicka på den skapade genvägen och välj "Properties". I slutet av sökvägen adderas `/F`. Nästa gång iVentoy startas öppnas en flik i standardwebbläsaren.  
@@ -58,8 +58,8 @@ När iVentoy startats visas enheter som läst in bootloader-filen.
 </br>  
 
 <img src="./iventoy/mac_lookup.jpg"
-        width="400"
-        height="128"
+        width="50%"
+        height="auto"
         style="display: block; margin: 0 auto" />
 
 </br>  
@@ -111,8 +111,8 @@ iVentoy har tre lägen för DHCP-servern:
 ## iVentoy-mappen  
 
 <img src="./iventoy/iventoy_folder.jpg"
-        width="550"
-        height="186"
+        width="80%"
+        height="auto"
         style="display: block; margin: 0 auto" />  
 
 - I mappen **iso** placeras ISO-filer då iVentoy bara läser dessa från denna mappen. Det går dock att göra symboliska länkar till mappen om ISO-filerna är placerade någon annanstans.

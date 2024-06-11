@@ -35,7 +35,7 @@ För att överföra från Linux till Windows måste SSH installeras först.
 
 </br>  
 
-<img src="./filetransfer/ssh2.jpg" width="500" height="573"/>  
+<img src="./filetransfer/ssh2.jpg" width="80%" height="auto"/>  
 
 1. Klicka på Add a feature 
 I nästa ruta välj att installera OpenSSH Client och Server.
@@ -51,7 +51,7 @@ I nästa ruta välj att installera OpenSSH Client och Server.
 
 </br>  
 
-<img src="./filetransfer/ssh4.jpg" width="350" height="403"/>  
+<img src="./filetransfer/ssh4.jpg" width="50%" height="auto"/>  
 
 1. Välj Automatic
 2. Klicka på Apply
@@ -133,4 +133,5 @@ Mata in denna raden från en mapp du vill dela:
 ````Bash
 python3 -m http.server 8080
 ````  
+
 För att komma åt mappen och dess undermappar anslut med <http://värdadress:8080> på en extern webbläsare.  

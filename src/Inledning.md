@@ -14,7 +14,7 @@ Jag var nyfiken på hur en installation över nätverk skulle gå tillväga och 
 
 #### 1.1 Syfte
 
-Syftet är att lära mig hur en massdistribuering skall gå tillväga på ett effektivt vis.
+Syftet är att lära mig hur massdistribuering skall gå tillväga på ett effektivt vis.
 
 #### 1.2 Frågeställning/Mål
 
@@ -28,7 +28,7 @@ Jag har främst använt mig av gratisprogram: Hyper-V, iVentoy och mdBook. Om ma
 
 #### 2.1 Arbetsprocess
 
-Dokumentationen av iVentoy lästes igenom. Processen mellan server, DHCP och klient fick utrönas med hjälp av Google, som så mycket annat. En del av sökresultaten var utdaterade, så det blev lite strul emellanåt. Informationen var inte alltid enhetlig vilket också utgjorde ett problem. Test gjordes i skolans nätverk för att se att det funkade ”live”, sen gjordes resten i Hyper-V. Då programvara och OS uppdateras fortlöpande stötte man på en del kommandon och program som inte funkade. Man fick testa sig fram.
+Dokumentationen av iVentoy lästes igenom. Processen mellan server, DHCP och klient fick utrönas med hjälp av Google som så mycket annat. En del av sökresultaten var utdaterade, så det blev lite strul emellanåt. Informationen var inte alltid enhetlig vilket också utgjorde ett problem. Test gjordes i skolans nätverk för att se att det funkade ”live”, sen gjordes resten i Hyper-V.  
 
 #### 2.2 Dokumentation
 
@@ -36,8 +36,4 @@ För dokumentationen användes mdBook som primärt använder Markdown syntax fö
 
 ### 3. Avslutning/ Utvärdering
 
-Det har varit kul att göra arbetet då man fått lära sig mycket nytt. Speciellt Linux var kul och nyttigt att arbeta med. iVentoy utvecklas fortlöpande viket alla programvaror gör. Under tiden jag skrivit guiden har Ubuntu hunnit släppa en ny version, likaså har autounattend-skriptet uppdaterats tre gånger. Det är nu lättare att förstå varför mycket av det jag googlat var utdaterat.
-
-Författare: Thorbjörn Jensen  
-Lärare: Peter Berger  
-Movant Lund  
+ Speciellt Linux var kul och nyttigt att arbeta med. iVentoy utvecklas fortlöpande och uppdateras så guiden kan snabbt bli utdaterad. Under tiden jag skrivit guiden har Ubuntu hunnit släppa en ny version, likaså har autounattend-skriptet uppdaterats tre gånger. En flaskhals iVentoy behöver adressera är att man måste gå in på de anslutna datorerna för att starta installationen. Förhoppningsvis löses detta med en framtida uppdatering.  

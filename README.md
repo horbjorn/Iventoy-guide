@@ -1,2 +1,1 @@
-Some stuff for a course.  
-[https://iventoyguide.netlify.app/](https://iventoyguide.netlify.app/)
+mdBook repo for a school project. Site located at: [https://iventoyguide.netlify.app/](https://iventoyguide.netlify.app/)
